@@ -1,0 +1,14 @@
+[
+  {
+    "title": "The Magical Tree",
+    "author": "Aryan",
+    "category": "Fantasy",
+    "filename": "Fantasy/aryan_magical_tree.txt"
+  },
+  {
+    "title": "The Brave Puppy",
+    "author": "Riya",
+    "category": "Adventure",
+    "filename": "Adventure/riya_brave_puppy.txt"
+  }
+]
