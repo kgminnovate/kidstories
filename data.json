@@ -13,9 +13,46 @@
 {
     "title": "Alexander - The Boy Who Tamed a Wild Horse",
     "author": "Gautham K",
-    "category": "Adventure",
+    "category": "History",
     "filename": "History/Alexander1.txt"
   },
+
+
+
+{
+    "title": "Alexander - The Teacher and the Dreamer",
+    "author": "Gautham K",
+    "category": "History",
+    "filename": "History/alexander_and_aristotle.txt"
+  },
+
+
+{
+    "title": "Alexander - The Gordian Knot Mystery",
+    "author": "Gautham K",
+    "category": "History",
+    "filename": "History/alexander_gordian_knot.txt"
+  },
+
+
+
+{
+    "title": "Alexander - The Battle That Changed the World",
+    "author": "Gautham K",
+    "category": "History",
+    "filename": "History/alexander_battle_of_gaugamela.txt"
+  },
+
+
+
+{
+    "title": "Alexander - The Journey to the Edge of the World",
+    "author": "Gautham K",
+    "category": "History",
+    "filename": "History/alexander_journey_to_india.txt"
+  },
+
+
 
   {
     "title": "The Magical Tree",
