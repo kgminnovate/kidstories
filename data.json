@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "stories":
     
 [
@@ -144,6 +144,14 @@
     "author": "Other",
     "category": "Adventure",
     "filename": "Tamil/Thennali_Raman_Cat_Story.txt",
+    "created_at": "2026-02-15T10:00:00Z"
+  },
+  {
+      "id": "story_0016",
+    "title": "விந்திய வேந்தன்: உதிரமும் அரியணையும் New",
+    "author": "KumaranK",
+    "category": "Adventure",
+    "filename": "Tamil/vindiyavendhan.txt",
     "created_at": "2026-02-15T10:00:00Z"
   }  
 ]
