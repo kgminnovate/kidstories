@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "stories":
     
 [
@@ -149,30 +149,6 @@
   {
       "id": "story_0016",
     "title": "விந்திய வேந்தன்: உதிரமும் அரியணையும் New",
-    "author": "KumaranK",
-    "category": "Adventure",
-    "filename": "Tamil/vindiyavendhan.txt",
-    "created_at": "2026-02-15T10:00:00Z"
-  },
-  {
-      "id": "story_0017",
-    "title": "விந்திய வேந்தன்: உதிரமும் அரியணையும் New1",
-    "author": "KumaranK",
-    "category": "Adventure",
-    "filename": "Tamil/vindiyavendhan.txt",
-    "created_at": "2026-02-15T10:00:00Z"
-  },
-  {
-      "id": "story_0018",
-    "title": "விந்திய வேந்தன்: உதிரமும் அரியணையும் New2",
-    "author": "KumaranK",
-    "category": "Adventure",
-    "filename": "Tamil/test.txt",
-    "created_at": "2026-02-15T10:00:00Z"
-  }  ,
-  {
-      "id": "story_0019",
-    "title": "விந்திய வேந்தன்: உதிரமும் அரியணையும் New5",
     "author": "KumaranK",
     "category": "Adventure",
     "filename": "Tamil/vindiyavendhan.txt",
