@@ -72,8 +72,16 @@
     "category": "History",
     "filename": "Tamil/veerapoortemple.txt",
     "created_at": "2026-09-06T10:00:00Z"
-  }
+  },
 
+{
+      "id": "story_0022",
+    "title": "இராமாயணம்",
+"author": "KumaranK",
+    "category": "History",
+    "filename": "Tamil/ramayanam.txt",
+    "created_at": "2026-09-06T10:00:00Z"
+  }
 
 
 
